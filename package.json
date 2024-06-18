@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@netlify/blobs": "^7.3.0",
     "@netlify/functions": "^2.7.0",
     "argy-args": "^1.0.0",
     "fitatu-sdk": "^1.0.0"
